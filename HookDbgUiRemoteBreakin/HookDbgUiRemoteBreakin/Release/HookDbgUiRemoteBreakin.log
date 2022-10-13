@@ -1,0 +1,6 @@
+﻿  main.cpp
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HookDbgUiRemoteBreakin.vcxproj -> C:\Users\Lzy\Desktop\Windows反调试简单讲解（用户模式篇）\Code\HookDbgUiRemoteBreakin\Release\HookDbgUiRemoteBreakin.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  NtSetInformationThread.vcxproj -> C:\Users\Lzy\Desktop\Windows反调试简单讲解（用户模式篇）\Code\NtSetInformationThread\x64\Release\NtSetInformationThread.exe
